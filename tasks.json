@@ -1,0 +1,24 @@
+{
+  "tasks": {
+    "task": [
+      {
+        "id": "remote-1",
+        "title": "Remote Assignment Reminder",
+        "courseCode": "COIT13234",
+        "deadline": "2026-06-05",
+        "weight": 40,
+        "lat": -33.8831,
+        "lon": 151.2020
+      },
+      {
+        "id": "remote-2",
+        "title": "Weekly Tutorial Revision",
+        "courseCode": "COIT13234",
+        "deadline": "2026-05-30",
+        "weight": 10,
+        "lat": -33.8831,
+        "lon": 151.2020
+      }
+    ]
+  }
+}
