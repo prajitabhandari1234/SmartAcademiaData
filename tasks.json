@@ -1,17 +1,12 @@
-{
-  "tasks": [
-    {
-      "id": "1",
-      "title": "Mobile App Assignment 3",
-      "courseCode": "COIT13234",
-      "deadline": "2026-06-05",
-      "weight": 40,
-      "estimatedHours": 12,
-      "priority": "High",
-      "locationName": "CQU Sydney Campus",
-      "lat": -33.883,
-      "lon": 151.2036,
-      "notes": "Complete assignment"
-    }
-  ]
-}
+[
+  {
+    "title": "HTTP Assignment Task",
+    "course": "COIT13234",
+    "deadline": "2026-06-03 23:45",
+    "weight": 20,
+    "estimatedHours": 4,
+    "notes": "Fetched from remote JSON API",
+    "lat": -33.8688,
+    "lon": 151.2093
+  }
+]
